@@ -1,6 +1,6 @@
 # Mnist kaggle
 
-This is a Keras neural net to predict whats the digit on the image.
+This is a Keras neural net to predict whats the digit on an image.
 
 I have 'elu' as the activation function with 'he_normal' initialisation, there are 5 layers with dropout of 0.5 on each layer and its normalised using batchnorm.
 I have used softmax as the last layer. 
