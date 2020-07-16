@@ -13,4 +13,4 @@ I pretrained the network on the original mnist dataset and then set the n-1 laye
 Using this network I have been able to achieve anaccuracy of 0.99335,
 and a position of 664
 
-Which is pretty cool considering its non a CNN.
+Which is pretty cool considering its not a CNN.
