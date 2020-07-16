@@ -10,7 +10,7 @@ It is optimised using Nadam
 
 I pretrained the network on the original mnist dataset and then set the n-1 layer to non trainable and trained it on the train data given.
 
-Using this network I have been able to achieve anaccuracy of 0.99335,
-and a position of 664
+Using this network I have been able to achieve anaccuracy of 0.99392,
+and a position of 585
 
 Which is pretty cool considering its not a CNN.
